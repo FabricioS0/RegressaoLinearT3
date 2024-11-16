@@ -1,4 +1,4 @@
-# RegressaoLinearT3
+# Regressao Linear T3
 
 Nome Projeto: Regressão Linear - Influencers 
 
